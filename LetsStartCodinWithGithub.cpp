@@ -4,8 +4,8 @@
 #include <iostream>
 
 int main()
-{
-    std::cout << "xqcL!\n";
+{s
+    std::cout << "xqcLss!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
