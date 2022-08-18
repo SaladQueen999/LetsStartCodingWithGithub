@@ -5,7 +5,7 @@
 
 int main()
 {s
-    std::cout << "xqcLss!\n";
+    std::cout << "yo" << endl; 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
